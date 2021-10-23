@@ -8,11 +8,17 @@
 *  adding new driver prompts a modal form using vue teleport✨
 *  new drivers can only be created when both the name and license input fields are filled
 
+<img src="./src/assets/add-driver-ui.png/" width="45%" title="hover text">
+
+
 ### 2. Delete drivers and orders 🚚 🧑🏻‍🤝‍🧑🏿!
 
 * orders can be deleted only if they are unassigned orders
 * drivers can be deleted when they do not have any orders assigned to them
 * user will be prompted again when they decide to delete an order or a driver
+
+<img src="./src/assets/delete-order-ui.png/" width="45%" title="hover text">
+
 
 ### 3. Data is peresisted through a database 💾!
 
