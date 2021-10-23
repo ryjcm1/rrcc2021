@@ -77,7 +77,7 @@ export default {
   },
   methods: {
     //fake simulated loading time
-    async stall(time = 1500){
+    async stall(time = 1000){
       await new Promise(resolve => setTimeout(resolve, time))
     },
 
