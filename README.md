@@ -1,9 +1,8 @@
 # Order Handler
 ### _The simplistic order & driver manager_
 
-<p align="center"
-  <img src="./src/assets/order-handler-ui.png/" title="hover text">
-</p>
+<img src="./src/assets/order-handler-ui.png/"  title="hover text">
+
 
 ## Project setup
 ```
