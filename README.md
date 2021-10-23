@@ -12,8 +12,7 @@
   <li><a href="#acknowledgements">Acknowledgements</a></li>
 </ol>
 
-* 1 item
-* 2 uten
+
 
 
 ## 📒 About The Project
@@ -24,9 +23,11 @@ New drivers can be created and they can be deleted on the condition that they ha
 
 ### 👨‍💻 Tech stack
 <img src="./src/assets/mevn-cli.jpg/" width="35%" title="hover text">
-- this project uses <a href="https://vuejs.org/"><b>Vue</b></a> to build responsive and reusable components
-- For persistence storage (database) this web app uses mongodb, where two types are schemas are authorized to be stored (orders and drivers)
-- NodeJs and ExpressJs are used to manage the backend of this project
+
+* this project used vue to build responsive and reusable componets
+* for persistence storage (database) this web app used mongoDb. Two types of schemas are accepted (orders and drivers)
+* NodeJs and ExpressJs are used to manage the backend of this project
+
 
 
 ## Getting Started
