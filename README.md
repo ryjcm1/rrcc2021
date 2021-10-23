@@ -1,8 +1,7 @@
 # Order Handler
 ### _The simplistic order & driver manager_
 
-
-<!--TABLE OF CONTENTS-->
+## 🗂️ Table of Contents
 <ol>
   <li><a href="#about-the-project">About The Project</a></li>
   <li><a href="#getting-started">Getting Started</a></li>
@@ -21,7 +20,7 @@ Order-handle allows for the user to create, edit and assign orders to existing d
 New drivers can be created and they can be deleted on the condition that they have no orders assigned to them.
 
 ### 👨‍💻 Tech stack
-<img src="./src/assets/mevn-cli.jpg/" width="55%" title="hover text">
+<img src="./src/assets/mevn-cli.jpg/" width="35%" title="hover text">
   -this project uses <a href="https://nodejs.org/en/"><b>Vue</b></a> to build responsive and reusable components
   -For persistence storage (database) this web app uses mongoDb, where two types are schemas are authorized to be stored (orders and drivers)
 
