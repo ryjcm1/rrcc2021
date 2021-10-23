@@ -19,7 +19,7 @@
 
 ## 📒 About The Project
 
-<img src="./src/assets/order-handler-ui.png/" width="55%" title="hover text">
+<img src="./src/assets/Animation.gif/" width="55%" title="hover text">
 Order-handler allows the user to create, edit and assign orders to existing drivers.
 New drivers can be created and they can be deleted on the condition that they have no orders assigned to them.
 
