@@ -7,8 +7,9 @@
   <li><a href="#about-the-project">About The Project</a></li>
   <li><a href="#getting-started">Getting Started</a></li>
     <ul>
-      <li><a href="#prerequisites">Prerequisites</a></li>
-      <li><a href="#installation">Installation</a></li>
+      <li><a href="#Prerequisites">Prerequisites</a></li>
+      <li><a href="#BackendInstallation">backend setup</a></li>
+      <li><a href="#FrontendInstallation">frontend setup</a></li>
     </ul>
   <li><a href="#acknowledgements">Acknowledgements</a></li>
 </ol>
