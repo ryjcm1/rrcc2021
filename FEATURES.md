@@ -19,9 +19,9 @@
 * data will be persisted through mongoDb atlas 
 * to link the server to the database, username and password is needed to be changed in the .env file
 
-### 4. Simulated loading spinner!
+### 4. Simulated loading spinner 💫!
 
-* to simulate loading delay, a purposeful delay of 1sec will be added before the intial data fetch call
+* to simulate loading delay, a purposeful delay of 1 second will be added before the intial data fetch call
 
 
 
