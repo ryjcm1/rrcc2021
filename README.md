@@ -61,7 +61,7 @@ npm install
 ### Frontend Installation
 
 Frontend is built using VueJs.
-To install all required dependencies, in the project directory run:
+To install all required vue dependencies, run the following in the main project directory:
 
 ```sh
 npm install
@@ -71,15 +71,15 @@ npm install
 
 ## Running the application
 
-To start the server, navigate into the server directory terminal and run
+To start the server, navigate to the server directory and run the following on the terminal
 ```
 npm run start
 ```
 
-To access the server route
+The server can be accesed on the following port
 
 ```sh
-http://localhost:5000/ ____
+http://localhost:5000/
 ```
 
 To build the frontend, run the following in the main directory terminal
@@ -88,7 +88,8 @@ To build the frontend, run the following in the main directory terminal
 npm run serve
 ```
 
-The frontend should be accessible on:
+The frontend should be accessible by default on:
+
 ```sh
 http://localhost:8080/
 ```
