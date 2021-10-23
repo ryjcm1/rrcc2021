@@ -1,17 +1,19 @@
 # Order Handler
+
+
 ### _The simplistic order & driver manager_
+
 
 ## 🗂️ Table of Contents
 <ol>
   <li><a href="#about-the-project">About The Project</a></li>
   <li><a href="#getting-started">Getting Started</a></li>
     <ul>
-      <li><a href="#Installation">Installation</a></li>
-      <li><a href="#Running">Running</a></li>
+      <li><a href="#Server-Installation">Server Installation</a></li>
+      <li><a href="#Frontend-Installation">Frontend Installation</a></li>
     </ul>
-  <li><a href="#acknowledgements">Acknowledgements</a></li>
+  <li><a href="#Running-the-application">Running the application</a></li>
 </ol>
-
 
 
 
@@ -39,35 +41,55 @@ New drivers can be created and they can be deleted on the condition that they ha
 npm install -g npm
 ```
 
-### Installation
+### Server Installtion
 
-#### server installation:
+The server is built using nodeJs, express, and mongodB.
 
-Navigate into the server directory and run
+Included dependencies:
+
+```sh
+express   cors  body-parser   mongodb   mongoose
+```
+
+To install all above dependencies, simply navigate into the server directory and run:
+
 ```sh
 npm install
 ```
-This will install all the dependencies for the server
 
-#### frontend installation:
 
-In the main project directory run
+### Frontend Installation:
+
+Frontend is built using VueJs.
+To install all required dependencies, in the project directory run:
+
 ```sh
 npm install
 ```
-This will install all the dependencies required for the front end
 
 
 
-### Running
+## Running the application
 
-To start the server, navigate into the server directory
+To start the server, navigate into the server directory terminal and run
 ```
 npm run start
 ```
-To start the build the frontend, run the following in the main directory terminal
+
+To access the server route
+
+```sh
+http://localhost:5000/ ____
 ```
+
+To build the frontend, run the following in the main directory terminal
+
+```sh
 npm run serve
 ```
 
+The frontend should be accessible on:
+```sh
+http://localhost:8080/
+```
 
