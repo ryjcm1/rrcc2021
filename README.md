@@ -1,8 +1,23 @@
 # Order Handler
 ### _The simplistic order & driver manager_
 
-<img src="./src/assets/order-handler-ui.png/" width="70%" title="hover text">
 
+<!--TABLE OF CONTENTS-->
+<ol>
+  <li><a href="#about-the-project">About The Project</a></li>
+  <li><a href="#getting-started">Getting Started</a></li>
+    <ul>
+      <li><a href="#prerequisites">Prerequisites</a></li>
+      <li><a href="#installation">Installation</a></li>
+    </ul>
+  <li><a href="#acknowledgements">Acknowledgements</a></li>
+</ol>
+
+
+<!-- ABOUT THE PROJECT -->
+<img src="./src/assets/order-handler-ui.png/" width="70%" title="hover text">
+Order-handle allows for the user to create, edit and assign orders to existing drivers.
+New drivers can be created and they can be deleted on the condition that they have no orders assigned to them.
 
 ## Project setup
 ```
