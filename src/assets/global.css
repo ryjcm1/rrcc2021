@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@300&display=swap');
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+:root{
+    --theme_color: #4285f4;
+    --money_color: green;
+    --negative_color: #960707;
+
+}
