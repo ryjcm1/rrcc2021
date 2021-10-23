@@ -43,7 +43,7 @@ npm install -g npm
 
 ### Server Installation
 
-The server is built using nodeJs, express, and mongodB.
+The server is built using nodeJs.
 
 Included dependencies:
 
