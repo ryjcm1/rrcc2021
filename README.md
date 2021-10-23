@@ -41,7 +41,7 @@ New drivers can be created and they can be deleted on the condition that they ha
 npm install -g npm
 ```
 
-### Server Installtion
+### Server Installation
 
 The server is built using nodeJs, express, and mongodB.
 
@@ -58,7 +58,7 @@ npm install
 ```
 
 
-### Frontend Installation:
+### Frontend Installation
 
 Frontend is built using VueJs.
 To install all required dependencies, in the project directory run:
