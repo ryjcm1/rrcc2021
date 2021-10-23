@@ -22,6 +22,8 @@ New drivers can be created and they can be deleted on the condition that they ha
 
 ### 👨‍💻 Tech stack
 ![image](https://user-images.githubusercontent.com/84100848/138566066-578ba46a-b4f2-4185-8ce3-a977e8cce949.png)
+  -this project uses <a href="https://nodejs.org/en/"><b>Vue</b></a> to build responsive and reusable components
+  -For persistence storage (database) this web app uses mongoDb, where two types are schemas are authorized to be stored (orders and drivers)
 
 
 ## Getting Started
