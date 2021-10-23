@@ -15,15 +15,15 @@
 </ol>
 
 
-<!-- ABOUT THE PROJECT -->
+## About The Project
+
 <img src="./src/assets/order-handler-ui.png/" width="70%" title="hover text">
 Order-handle allows for the user to create, edit and assign orders to existing drivers.
 New drivers can be created and they can be deleted on the condition that they have no orders assigned to them.
 
-## Project setup
-```
-npm install
-```
+## Getting Started
+<a href="https://nodejs.org/en/"><b>Node</b></a> is required to run this program.
+
 
 ### Compiles and hot-reloads for development
 ```
