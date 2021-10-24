@@ -4,8 +4,8 @@
 
 *  new orders can be made in the unassigned order container
 *  all new orders are unassigned
-*  new orders can only be made when decription, revenue, and cost input fields are filled in
-*  adding new driver prompts a modal form using vue teleport✨
+*  new orders can only be made when the description, revenue, and cost input fields are filled in
+*  adding new drivers prompts a modal form using vue teleport✨
 *  new drivers can only be created when both the name and license input fields are filled
 
 <img src="./src/assets/add-driver-ui.png/" width="45%" title="hover text">
@@ -23,7 +23,7 @@
 ### 3. Data is peresisted through a database 💾!
 
 * data will be persisted through mongoDb atlas 
-* to link the server to the database, username and password is needed to be changed in the .env file
+* to link the server to the database, username and password is needed in the .env file
 
 ### 4. Simulated loading spinner 💫!
 
