@@ -26,8 +26,8 @@ New drivers can be created and they can be deleted on the condition that they ha
 ### 👨‍💻 Tech stack
 <img src="./src/assets/mevn-cli.jpg/" width="35%" title="hover text">
 
-* this project used vue to build responsive and reusable componets
-* for persistence storage (database) this web app used mongoDb. Two types of schemas are accepted (orders and drivers)
+* this project used vue to build responsive and reusable components
+* for persistence storage (database) this web app uses mongoDb. Two types of schemas are accepted (orders and drivers)
 * NodeJs and ExpressJs are used to manage the backend of this project
 
 
