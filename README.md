@@ -76,7 +76,7 @@ To start the server, navigate to the server directory and run the following on t
 npm run start
 ```
 
-The server can be accesed on the following port
+The server can be accessed on the following port
 
 ```sh
 http://localhost:5000/
